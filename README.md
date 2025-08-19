@@ -26,6 +26,7 @@ The **AI Career Coach** project aims to provide:
 
 ## 📂 File/Folder Structure
 
+```
 sensai/
 │── app/ # App Router (Next.js 13+)
 │ ├── layout.js # Root layout (shared across pages)
@@ -40,6 +41,8 @@ sensai/
 │── package.json # Dependencies & scripts
 │── tailwind.config.js # Tailwind CSS configuration
 │── .env.local # Environment variables (API keys, Clerk keys)
+```
+
 ---
 
 ## 🔗 How Files Connect & Their Usage
