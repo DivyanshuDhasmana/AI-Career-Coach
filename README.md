@@ -40,7 +40,6 @@ sensai/
 │── package.json # Dependencies & scripts
 │── tailwind.config.js # Tailwind CSS configuration
 │── .env.local # Environment variables (API keys, Clerk keys)
-
 ---
 
 ## 🔗 How Files Connect & Their Usage
